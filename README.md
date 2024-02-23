@@ -1,7 +1,8 @@
- INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-
+***INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-***
 
-
-
+ #Developed by: DEVESH SHARMA S
+ 
+ #RegisterNumber: 212222110008
 
 **AIM**:  To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
 
@@ -98,11 +99,16 @@ void loop()
 }
 ```
 
+![Screenshot 2024-02-23 161103](https://github.com/devesh-s1/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/121490523/f9816af1-2911-4e78-949a-d2e965d7a800)
+
+
 **
 **Simulation output:** 
 **
+![Screenshot 2024-02-23 161203](https://github.com/devesh-s1/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/121490523/1f358331-4928-41c7-92b6-4b62602cf501)
+![Screenshot 2024-02-23 161441](https://github.com/devesh-s1/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/121490523/7b2c13b7-af32-4363-83e6-022fc5dc402e)
+![Screenshot 2024-02-23 161517](https://github.com/devesh-s1/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/121490523/639131f8-c25e-42b7-abd7-678d536910a9)
 
-![Screenshot (4)](https://github.com/devesh-s1/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/121490523/ee595608-ff09-4c38-a957-0035f43cb5d7)
 
 
 
